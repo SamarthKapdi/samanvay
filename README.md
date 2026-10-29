@@ -5,13 +5,10 @@
 
 ![SIH 2026](https://img.shields.io/badge/SIH-2026-orange?style=for-the-badge&logo=hackaday)
 ![PS ID](https://img.shields.io/badge/PS_ID-26264-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Prototype_Live-success?style=for-the-badge)
 
 **Problem Statement ID:** 26264  
 **Problem Statement Title:** Integrated Dashboard for Monitoring and Tracking Institution-Related Complaint Cases Across AICTE Bureaus/Cells  
 **Team Name:** FutureMinds  
-
-🔗 **[Live Demo](https://samanvay-lilac.vercel.app/)** | 📺 **[Video Walkthrough](#)** *(Add your YouTube link here)*
 
 ---
 
@@ -44,14 +41,6 @@ Our system accurately detects duplicates across unformatted legacy data and mult
 *   **Database:** PostgreSQL + PostGIS, `pgvector` (Semantic Search)
 *   **Caching & Queues:** Redis Pub/Sub (Live Alerts), BullMQ (SLA Cron Jobs)
 *   **Security & Deployment:** JWT Authentication, Docker & Kubernetes (Targeted for NIC/MeghRaj GI Cloud)
-
-## 📸 Screenshots
-
-*(Replace these placeholder links with actual screenshots of your dashboard)*
-
-| Command Dashboard | Overlap Alert Modal |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/600x350.png?text=Dashboard+Screenshot" alt="Dashboard" width="400"/> | <img src="https://via.placeholder.com/600x350.png?text=Overlap+Alert+Screenshot" alt="Alert" width="400"/> |
 
 ## 🚀 Local Installation & Setup
 
